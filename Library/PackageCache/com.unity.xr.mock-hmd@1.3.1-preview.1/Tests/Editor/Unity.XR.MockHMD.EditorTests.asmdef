@@ -1,0 +1,14 @@
+{
+    "name": "Unity.XR.MockHMD.EditorTests",
+    "references": [
+        "Unity.XR.MockHMD.Editor",
+        "Unity.XR.MockHMD"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

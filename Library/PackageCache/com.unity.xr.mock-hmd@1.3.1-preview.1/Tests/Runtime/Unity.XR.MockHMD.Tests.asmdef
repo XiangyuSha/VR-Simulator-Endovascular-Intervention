@@ -1,0 +1,11 @@
+{
+    "name": "Unity.XR.MockHMD.Tests",
+    "references": [
+        "Unity.XR.MockHMD"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
